@@ -2,8 +2,8 @@
 66 programs - 66 days - 66 lines - 66 minutes
 
 ## the list 
-1. calculator
-2. to-do list application
+1. <del>calculator</del>
+2. <del>to-do list application</del>
 3. simple text editor
 4. tic-tac-toe game
 5. hangman game
