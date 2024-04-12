@@ -4,7 +4,7 @@
 ## the list 
 1. <del>calculator</del>
 2. <del>to-do list application</del>
-3. simple text editor
+3. <del>simple text editor</del>
 4. tic-tac-toe game
 5. hangman game
 6. temperature converter
